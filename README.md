@@ -1,4 +1,4 @@
-# FRC 7157 Bootcamp — Course Intro & Assignment A1: Git Boot-Up
+# FRC 7157 Bootcamp — Course Intro & Assignment A1: Git Boot-Up!
 
 > **This course will throw you into the deep end.** We focus on **competition-grade code** with the exact stack you’ll use in season, using a progressive scaffolded approach. You’ll learn by doing, with a mix of theory and practice. You will not learn everything, but you will learn how to learn.
 > We **will not** teach general Java syntax or fundamentals here. If you need that, use a Java 17 primer (Codecademy / Udemy / “Java Programming” on YouTube / Oracle tutorials) **in parallel**.
